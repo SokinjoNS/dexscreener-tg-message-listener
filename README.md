@@ -11,7 +11,7 @@ The __dexscreener_tg_message_listener.py__ module is part of a Telegram bot appl
 ## Prerequisites
 
 - Python 3.6 or newer.
-- A Telegram bot token and API credentials (api_id and api_hash).
+- A Telegram bot token and API credentials (__api_id__ and __api_hash__).
 - Access to the Dexscreener API for data extraction.
 - The requests library for making HTTP requests to the Dexscreener API.
 - The telethon library for interacting with the Telegram API.
